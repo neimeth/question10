@@ -1,1 +1,2 @@
-Adding text to test.txt
+Here is some more text for part 7.
+
